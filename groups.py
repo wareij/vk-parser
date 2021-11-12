@@ -1,6 +1,6 @@
 import requests
 import time
-from kek import*
+from config import*
 
 
 '''
